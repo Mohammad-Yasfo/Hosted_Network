@@ -1,0 +1,52 @@
+C:\Users\محمد اليسفو\Documents\Visual Studio 2013\Projects\Wifi_Network\Wifi_Network\bin\Debug\Wifi_Network.exe.config
+C:\Users\محمد اليسفو\Documents\Visual Studio 2013\Projects\Wifi_Network\Wifi_Network\bin\Debug\Wifi_Network.exe
+C:\Users\محمد اليسفو\Documents\Visual Studio 2013\Projects\Wifi_Network\Wifi_Network\bin\Debug\Wifi_Network.pdb
+C:\Users\محمد اليسفو\Documents\Visual Studio 2013\Projects\Wifi_Network\Wifi_Network\obj\Debug\MainWindow.baml
+C:\Users\محمد اليسفو\Documents\Visual Studio 2013\Projects\Wifi_Network\Wifi_Network\obj\Debug\MainWindow.g.cs
+C:\Users\محمد اليسفو\Documents\Visual Studio 2013\Projects\Wifi_Network\Wifi_Network\obj\Debug\App.g.cs
+C:\Users\محمد اليسفو\Documents\Visual Studio 2013\Projects\Wifi_Network\Wifi_Network\obj\Debug\Wifi_Network_MarkupCompile.cache
+C:\Users\محمد اليسفو\Documents\Visual Studio 2013\Projects\Wifi_Network\Wifi_Network\obj\Debug\Wifi_Network.g.resources
+C:\Users\محمد اليسفو\Documents\Visual Studio 2013\Projects\Wifi_Network\Wifi_Network\obj\Debug\Wifi_Network.Properties.Resources.resources
+C:\Users\محمد اليسفو\Documents\Visual Studio 2013\Projects\Wifi_Network\Wifi_Network\obj\Debug\Wifi_Network.csproj.GenerateResource.Cache
+C:\Users\محمد اليسفو\Documents\Visual Studio 2013\Projects\Wifi_Network\Wifi_Network\obj\Debug\Wifi_Network.exe
+C:\Users\محمد اليسفو\Documents\Visual Studio 2013\Projects\Wifi_Network\Wifi_Network\obj\Debug\Wifi_Network.pdb
+C:\Users\محمد اليسفو\Documents\Visual Studio 2013\Projects\Wifi_Network\Wifi_Network\obj\Debug\Wifi_Network.csprojResolveAssemblyReference.cache
+C:\Users\محمد اليسفو\Desktop\Wifi_Network\Wifi_Network\bin\Debug\Wifi_Network.exe.config
+C:\Users\محمد اليسفو\Desktop\Wifi_Network\Wifi_Network\obj\Debug\Wifi_Network.exe
+C:\Users\محمد اليسفو\Desktop\Wifi_Network\Wifi_Network\obj\Debug\Wifi_Network.pdb
+C:\Users\محمد اليسفو\Desktop\Wifi_Network\Wifi_Network\bin\Debug\Wifi_Network.exe
+C:\Users\محمد اليسفو\Desktop\Wifi_Network\Wifi_Network\bin\Debug\Wifi_Network.pdb
+C:\Users\محمد اليسفو\Desktop\Wifi_Network\Wifi_Network\obj\Debug\Wifi_Network.csprojResolveAssemblyReference.cache
+C:\Users\محمد اليسفو\Desktop\Wifi_Network\Wifi_Network\obj\Debug\MainWindow.baml
+C:\Users\محمد اليسفو\Desktop\Wifi_Network\Wifi_Network\obj\Debug\MainWindow.g.cs
+C:\Users\محمد اليسفو\Desktop\Wifi_Network\Wifi_Network\obj\Debug\App.g.cs
+C:\Users\محمد اليسفو\Desktop\Wifi_Network\Wifi_Network\obj\Debug\Wifi_Network_MarkupCompile.cache
+C:\Users\محمد اليسفو\Desktop\Wifi_Network\Wifi_Network\obj\Debug\Wifi_Network.g.resources
+C:\Users\محمد اليسفو\Desktop\Wifi_Network\Wifi_Network\obj\Debug\Wifi_Network.Properties.Resources.resources
+C:\Users\محمد اليسفو\Desktop\Wifi_Network\Wifi_Network\obj\Debug\Wifi_Network.csproj.GenerateResource.Cache
+D:\3th Year\Wifi_Network\Wifi_Network\bin\Debug\Wifi_Network.exe.config
+D:\3th Year\Wifi_Network\Wifi_Network\obj\Debug\Wifi_Network.exe
+D:\3th Year\Wifi_Network\Wifi_Network\obj\Debug\Wifi_Network.pdb
+D:\3th Year\Wifi_Network\Wifi_Network\bin\Debug\Wifi_Network.exe
+D:\3th Year\Wifi_Network\Wifi_Network\bin\Debug\Wifi_Network.pdb
+D:\3th Year\Wifi_Network\Wifi_Network\obj\Debug\Wifi_Network.csprojResolveAssemblyReference.cache
+D:\3th Year\Wifi_Network\Wifi_Network\obj\Debug\MainWindow.baml
+D:\3th Year\Wifi_Network\Wifi_Network\obj\Debug\MainWindow.g.cs
+D:\3th Year\Wifi_Network\Wifi_Network\obj\Debug\App.g.cs
+D:\3th Year\Wifi_Network\Wifi_Network\obj\Debug\Wifi_Network_MarkupCompile.cache
+D:\3th Year\Wifi_Network\Wifi_Network\obj\Debug\Wifi_Network.g.resources
+D:\3th Year\Wifi_Network\Wifi_Network\obj\Debug\Wifi_Network.Properties.Resources.resources
+D:\3th Year\Wifi_Network\Wifi_Network\obj\Debug\Wifi_Network.csproj.GenerateResource.Cache
+E:\Projects Faculty\Wifi_Network\Wifi_Network\bin\Debug\Wifi_Network.exe.config
+E:\Projects Faculty\Wifi_Network\Wifi_Network\bin\Debug\Wifi_Network.exe
+E:\Projects Faculty\Wifi_Network\Wifi_Network\bin\Debug\Wifi_Network.pdb
+E:\Projects Faculty\Wifi_Network\Wifi_Network\obj\Debug\Wifi_Network.csprojResolveAssemblyReference.cache
+E:\Projects Faculty\Wifi_Network\Wifi_Network\obj\Debug\MainWindow.baml
+E:\Projects Faculty\Wifi_Network\Wifi_Network\obj\Debug\MainWindow.g.cs
+E:\Projects Faculty\Wifi_Network\Wifi_Network\obj\Debug\App.g.cs
+E:\Projects Faculty\Wifi_Network\Wifi_Network\obj\Debug\Wifi_Network_MarkupCompile.cache
+E:\Projects Faculty\Wifi_Network\Wifi_Network\obj\Debug\Wifi_Network.g.resources
+E:\Projects Faculty\Wifi_Network\Wifi_Network\obj\Debug\Wifi_Network.Properties.Resources.resources
+E:\Projects Faculty\Wifi_Network\Wifi_Network\obj\Debug\Wifi_Network.csproj.GenerateResource.Cache
+E:\Projects Faculty\Wifi_Network\Wifi_Network\obj\Debug\Wifi_Network.exe
+E:\Projects Faculty\Wifi_Network\Wifi_Network\obj\Debug\Wifi_Network.pdb

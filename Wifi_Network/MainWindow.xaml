@@ -1,0 +1,37 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="Wifi_Network.MainWindow"
+        Title="MainWindow" Height="350" Width="525" AllowsTransparency="True" WindowStyle="None" Background="{x:Null}" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <Storyboard x:Key="OnClick1"/>
+    </Window.Resources>
+    <Window.Triggers>
+        <EventTrigger RoutedEvent="ButtonBase.Click" SourceName="CloseBtn">
+            <BeginStoryboard Storyboard="{StaticResource OnClick1}"/>
+        </EventTrigger>
+    </Window.Triggers>
+    <Grid x:Name="MainGrid" Margin="20,20,20,10" SnapsToDevicePixels="True">
+        <Rectangle HorizontalAlignment="Left" Height="320" RadiusY="50" RadiusX="50" VerticalAlignment="Top" Width="485" StrokeThickness="0">
+            <Rectangle.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF1C365D" Offset="0"/>
+                    <GradientStop Color="#FF92BFFF" Offset="1"/>
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+
+        <TextBlock HorizontalAlignment="Left" Height="34.796" Margin="27.729,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="237.271" Foreground="White" FontFamily="Pristina" FontSize="24" FontWeight="Bold" FontStyle="Italic" TextDecorations="{x:Null}"><Run Text=" "/><Run FontStyle="Normal" Text="Mohammad Yasfo"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Height="26.861" Margin="27.729,92.072,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="112.828" FontSize="16" Text="NetworkName :" RenderTransformOrigin="0.33,0.854"/>
+        <TextBlock HorizontalAlignment="Left" Height="26.861" Margin="60.937,140.422,0,0" TextWrapping="Wrap" Text="Password :" VerticalAlignment="Top" Width="79.62" FontSize="16"/>
+        <TextBox x:Name="SSidLst" HorizontalAlignment="Left" Height="26.861" Margin="151.203,92.072,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="268.797" Background="#FF85D4B4"/>
+        <TextBox x:Name="PasswordLst" HorizontalAlignment="Left" Height="26.861" Margin="151.203,140.422,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="268.797" Background="#FF90D3B7"/>
+        <Button x:Name="StartBtn" Content="Start Network" HorizontalAlignment="Left" Height="32.233" Margin="151.203,204.889,0,0" VerticalAlignment="Top" Width="99.555" Click="StartBtn_Click" Background="#FF96E6DC"/>
+        <Button x:Name="StopBtn" Content="Stop Network" HorizontalAlignment="Left" Height="32.233" Margin="320.446,204.889,0,0" VerticalAlignment="Top" Width="99.554" Click="StopBtn_Click" Background="#FF96E6DC"/>
+        <Button x:Name="CloseBtn" Content="" HorizontalAlignment="Left" Height="45" Margin="435,10,0,0" VerticalAlignment="Top" Width="40" Background="#FFECECEC" Click="CloseBtn_Click_1">
+            <Button.OpacityMask>
+                <ImageBrush ImageSource="close-02.png"/>
+            </Button.OpacityMask>
+        </Button>
+    </Grid>
+</Window>
